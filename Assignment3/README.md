@@ -19,8 +19,6 @@
 ## Assignment details
 - For each question, I have created a separate QuestionX.java class. (X = 1 to 8)
 
-- The time complexity for all the solutions I have written is O(n).
-
 ## How to run the code
 
 Run QuestionX.java class. These classes includes the main method. 
