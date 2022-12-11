@@ -39,7 +39,7 @@ Time Complexity: O(n), where n is the length of s
 Space Complexity: O(n), where n is length of s
 
 Q4:
-Time Complexity: O(N*M)
-Space Complexity: O(N*M)
+Time Complexity: O(N * M)
+Space Complexity: O(N * M)
 
 
